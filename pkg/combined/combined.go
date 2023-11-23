@@ -1,6 +1,6 @@
 package combined
 
-import "configod/core/configloader"
+import "github.com/makarkananov/configod/core/configloader"
 
 type ConfigSource struct {
 	Sources []configloader.ConfigSource

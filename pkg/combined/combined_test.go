@@ -1,8 +1,8 @@
 package combined
 
 import (
-	"configod/core/configloader"
 	"errors"
+	"github.com/makarkananov/configod/core/configloader"
 	"testing"
 )
 

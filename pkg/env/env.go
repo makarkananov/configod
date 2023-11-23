@@ -1,7 +1,7 @@
 package env
 
 import (
-	"configod/core/configloader"
+	"github.com/makarkananov/configod/core/configloader"
 )
 
 type ConfigSource struct{}

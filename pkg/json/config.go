@@ -1,8 +1,8 @@
 package json
 
 import (
-	"configod/core/configloader"
 	"fmt"
+	"github.com/makarkananov/configod/core/configloader"
 	"os"
 )
 
