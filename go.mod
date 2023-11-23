@@ -1,4 +1,4 @@
-module configod
+module github.com/makarkananov/configod
 
 go 1.20
 
